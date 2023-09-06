@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">MyOnePieceApp</string>
+    <string name="crews_name">Nama Crew</string>
+    <string name="description">Deskripsi</string>
+    <string name="role">Role</string>
+    <string name="about">About</string>
+    <string name="share">Share</string>
+    <string-array name="data_name">
+        <item>Monkey D. Luffy</item>
+        <item>Roronoa Zoro</item>
+        <item>Nami</item>
+        <item>Usopp</item>
+        <item>Sanji</item>
+        <item>Tony Tony Chopper</item>
+        <item>Nico Robin</item>
+        <item>Franky</item>
+        <item>Brook</item>
+        <item>Jinbei</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Monkey D. Luffy, juga dikenal sebagai "Luffy Topi Jerami" dan umumnya sebagai "Topi Jerami", adalah pendiri dan kapten dari Bajak Laut Topi Jerami yang semakin terkenal dan kuat, serta yang paling kuat dari petarung topnya. Dia ingin menemukan harta karun legendaris yang ditinggalkan oleh mendiang Gol D. Roger dan dengan demikian menjadi Raja Bajak Laut, yang akan membantu memfasilitasi mimpinya yang tidak diketahui yang dia ceritakan hanya kepada Shanks, saudara laki-lakinya, dan krunya. Dia percaya bahwa menjadi Raja Bajak Laut berarti memiliki kebebasan terbesar di dunia.
+            Lahir di Desa Foosha, Luffy adalah anak dari Monkey D. Dragon, pemimpin dari Tentara Revolusioner, dan cucu dari pahlawan Marinir Monkey D. Garp, dan keluarga mereka membawa inisial dan Kehendak D. Pada usia 7 tahun, Luffy secara tidak sengaja memakan Gomu Gomu no Mi, yang mengubah tubuhnya menjadi karet. Shanks juga memberi Luffy topi jerami yang telah menjadi aksesori khas Luffy, setelah menghadiahkannya kepada bocah itu sebagai bagian dari janji mereka untuk bertemu lagi suatu hari setelah dia menjadi bajak laut yang hebat. Tumbuh di Pulau Dawn di bawah asuhan Curly Dadan, Luffy berteman dan menjadi saudara tersumpah dari mendiang "Tinju Api" Portgas D. Ace dan Kepala Staf Revolusioner Sabo.
+        </item>
+        <item>Roronoa Zoro, juga dikenal sebagai "Pemburu Bajak Laut" Zoro , adalah kombatan utama Bajak Laut Topi Jerami , salah satu dari dua pendekar pedang mereka , salah satu Perwira Senior Armada Besar Topi Jerami , dan diakui secara publik sebagai tangan kanan kapten krunya Monkey D. Luffy . Dulunya seorang pemburu hadiah, dia adalah anggota kedua kru Luffy dan yang pertama bergabung, melakukannya di Arc Romance Dawn.
+            Lahir di East Blue, Zoro adalah putra Tera dan Roronoa Arashi, cucu dari Shimotsuki Furiko dan Roronoa Pinzoro, dan cucu dari Shimotsuki Ushimaru , menjadikannya keturunan matrilineal dari Keluarga Shimotsuki di Negeri Wano dan samurai legendaris, Shimotsuki Ryuma . Sebagai master Jurus Tiga Pedang, gaya ilmu pedang yang ia ciptakan selama pelatihan masa kecilnya di Desa Shimotsuki, Zoro adalah salah satu dari tiga petarung paling kuat di Topi Jerami, bersama Luffy danSanji , yang disebut sebagai "Trio Monster". Mimpinya adalah menjadi pendekar pedang terhebat di dunia, untuk menghormati janji yang dia buat kepada mendiang teman masa kecilnya, Kuina.
+        </item>
+        <item>Nami adalah navigator Bajak Laut Topi Jerami dan salah satu Perwira Senior Armada Besar Topi Jerami. Dia adalah anggota kru ketiga dan orang kedua yang bergabung, melakukannya selama Arc Kota Oranye. Dia adalah saudara angkat Nojiko setelah keduanya menjadi yatim piatu dan diambil alih oleh Bellmère.
+            Dia sebelumnya adalah anggota Bajak Laut Arlong dan awalnya bergabung dengan Topi Jerami sehingga dia bisa merampok mereka untuk membeli kembali desanya dari Arlong. Namun, dia sah bergabung dengan Topi Jerami setelah mereka memberontak dan mengalahkan Arlong. Impiannya adalah membuat peta seluruh dunia.
+        </item>
+        <item>Usopp adalah penembak jitu dari Bajak Laut Topi Jerami dan salah satu Perwira Senior Armada Besar Topi Jerami. Dia adalah anggota kru keempat dan orang ketiga yang bergabung, melakukannya di akhir Arc Desa Sirup. Meskipun dia meninggalkan kru selama Arc Water 7, dia bergabung kembali di akhir Arc Pasca-Enies Lobby.
+            Usopp adalah putra Yasopp dan Banchina. Ia lahir dan besar di Desa Syrup, menjabat sebagai " kapten " Bajak Laut Usopp dan menjadi teman dekat Kaya. Setelah bekerja dengan Topi Jerami untuk mengalahkan Kuro dan Bajak Laut Kucing Hitam, dia diundang untuk bergabung dengan kru. Terlepas dari sifat pengecutnya, Usopp bercita-cita menjadi pejuang laut pemberani seperti ayahnya dan hidup setiap hari untuk mewujudkan impiannya.
+        </item>
+        <item>Sanji "Kaki Hitam", lahir sebagai Vinsmoke Sanji, adalah juru masak Bajak Laut Topi Jerami dan salah satu Perwira Senior Armada Besar Topi Jerami. Dia adalah anggota kru kelima dan keempat yang bergabung, melakukannya di akhir Arc Baratie.
+            Terlahir sebagai putra ketiga dan anak keempat dari Keluarga Vinsmoke (sehingga, menjadikannya mantan pangeran Kerajaan Germa), ia tidak mengakui keluarganya dua kali, sekali di masa mudanya dan sekali lagi setelah bersatu kembali dengan mereka saat dewasa. Setelah melarikan diri dari Vinsmokes saat masih kecil, dia akhirnya dirawat oleh Zeff sebagai sous chef dari Baratie, di mana dia akan tinggal sampai dia bertemu Monkey D. Luffy, yang meyakinkan dia untuk bergabung dengan krunya.
+            Impiannya adalah menemukan surga koki yang dirumorkan, All Blue, yang merupakan tempat bertemunya East Blue, West Blue, North Blue, dan South Blue, beserta satwa liarnya. Dia adalah salah satu dari tiga petarung teratas Topi Jerami, bersama Luffy dan Zoro, yang disebut sebagai "Trio Monster".
+        </item>
+        <item>Tony Tony Chopper, juga dikenal sebagai Chopper "Cotton Candy Lover", adalah dokter Bajak Laut Topi Jerami dan salah satu Perwira Senior Armada Besar Topi Jerami. Dia adalah anggota kru keenam dan anggota kelima yang bergabung, melakukannya di akhir Arc Pulau Drum. Dia untuk sementara waktu dipaksa untuk bergabung dengan Bajak Laut Foxy selama Arc Long Ring Long Land, namun dengan cepat dikembalikan ke kru Luffy.
+            Chopper adalah seekor rusa kutub yang memakan Hito Hito no Mi, Buah Iblis yang memungkinkan penggunanya berubah menjadi manusia hibrida atau manusia sesuka hati. Ia diajari cara menjadi dokter di Pulau Drum oleh kedua figur orang tuanya, Dokter Hiriluk dan Kureha. Impiannya adalah suatu hari nanti menjadi seorang dokter yang mampu menyembuhkan penyakit apa pun dan ingin melakukan perjalanan keliling dunia secara khusus dengan harapan dapat mencapai impian tersebut.
+        </item>
+        <item>Nico Robin, juga dikenal dengan julukannya "Anak Iblis" dan "Cahaya Revolusi", adalah arkeolog dari Bajak Laut Topi Jerami dan salah satu Perwira Senior Armada Besar Topi Jerami. Dia adalah anggota kru ketujuh dan keenam yang bergabung, melakukannya di akhir Arc Arabasta. Dia untuk sementara meninggalkan kru selama Arc Water 7 tetapi bergabung kembali selama Arc Enies Lobby.
+            Robin memakan Hana Hana no Mi di usia muda, memberinya kekuatan untuk mereproduksi bagian tubuhnya (atau seluruh tubuhnya) di permukaan mana pun sesuka hati. Sebagai satu-satunya yang selamat dari hancurnya pulau West Blue Ohara, dia saat ini adalah satu dari hanya dua orang di dunia yang diketahui memiliki kemampuan membaca dan menguraikan Poneglyph, sebuah keterampilan yang dianggap terlarang dan mengancam Pemerintah Dunia.
+        </item>
+        <item>"Iron Man" Franky adalah pembuat kapal Bajak Laut Topi Jerami dan salah satu Perwira Senior Armada Besar Topi Jerami. Dia adalah anggota kru kedelapan dan ketujuh yang bergabung, melakukannya di akhir Arc PascaEnies Lobby.
+            Terlahir sebagai "Cutty Flam", ia memilih untuk menggunakan nama panggilannya "Franky" hingga akhirnya secara permanen membuang nama aslinya atas permintaan Iceburg untuk menyembunyikan identitasnya. Berasal dari South Blue, Franky ditinggalkan oleh keluarganya saat berusia empat tahun, akhirnya menuju ke Water 7. Di sana, ia menjadi anggota Tom"'"s Workers, hingga sebuah insiden mengakibatkan tubuhnya rusak parah dan mengharuskannya untuk meningkatkan dirinya menjadi cyborg. Sekembalinya ke Water 7, ia menjadi pemimpin Keluarga Franky, sekelompok pembongkaran kapal danpemburu hadiah.</item>
+        <item>"Soul King" Brook adalah musisi Bajak Laut Topi Jerami, salah satu dari dua pendekar pedang mereka, dan salah satu Perwira Senior Armada Besar Topi Jerami. Dia adalah anggota kru kesembilan dan kedelapan yang bergabung, melakukannya di akhir Arc Thriller Bark.
+            Brook memakan Yomi Yomi no Mi, yang membuatnya bisa hidup kembali setelah mati satu kali. Brook akhirnya belajar untuk memanfaatkan lebih dalam kekuatan Buah Iblisnya, memberinya kendali signifikan atas jiwanya sendiri dan jiwa orang lain.
+            Awalnya merupakan anggota Bajak Laut Rumbar, ia meninggal dan dibangkitkan melalui kekuatan Yomi Yomi no Mi. Namun, karena banyaknya waktu yang dibutuhkan jiwanya untuk menemukan tubuhnya, tubuhnya hanya tinggal kerangka, hanya menyisakan afro-nya yang utuh. Brook terhanyut sendirian di Segitiga Florian selama 50 tahun, akhirnya bertemu Luffy dan menjadi sekutu Topi Jerami selama Arc Thriller Bark sebelum resmi bergabung dengan kru. Impiannya adalah bertemu kembali dengan teman lamanya, Laboon, di Reverse Mountain, tempat dia tinggal bersama Crocus.
+        </item>
+        <item>"Ksatria Laut" Jinbe adalah juru mudi Bajak Laut Topi Jerami dan salah satu Perwira Senior Armada Besar Topi Jerami. Dia adalah anggota kru kesepuluh dan kesembilan yang bergabung, melakukannya selama Arc Negara Wano.
+            Jinbe adalah manusia ikan hiu paus dan ahli Karate Manusia Ikan yang kuat. Impiannya adalah memenuhi keinginan mantan kaptennya Fisher Tiger untuk hidup berdampingan dan setara antara manusia dan manusia ikan. Dia adalah anggota Bajak Laut Matahari, akhirnya menjadi kapten kedua setelah kematian kapten asli mereka, Tiger. Ia akhirnya menjadi salah satu dari Tujuh Panglima Perang Laut, meskipun ia mengundurkan diri selama Perang Puncak Marineford. Vegapunk kemudian mengkloning Jinbe sebagai salah satu Seraphim, S-Shark, untuk menggantikan Panglima Perang.
+        </item>
+        </string-array>
+
+    <string-array name="data_photo">
+        <item>https://static.wikia.nocookie.net/onepiece/images/6/6d/Monkey_D._Luffy_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/239?cb=20200429191518</item>
+        <item>https://static.wikia.nocookie.net/onepiece/images/5/52/Roronoa_Zoro_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/188?cb=20180825161324</item>
+        <item>https://static.wikia.nocookie.net/onepiece/images/6/68/Nami_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/298?cb=20190720162446</item>
+        <item>https://static.wikia.nocookie.net/onepiece/images/3/35/Usopp_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/269?cb=20221127233827</item>
+        <item>https://static.wikia.nocookie.net/onepiece/images/b/b6/Sanji_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/167?cb=20170625125657</item>
+        <item>https://static.wikia.nocookie.net/onepiece/images/a/af/Tony_Tony_Chopper_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20130428202154</item>
+        <item>https://static.wikia.nocookie.net/onepiece/images/b/bc/Nico_Robin_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/257?cb=20190202051257</item>
+        <item>https://static.wikia.nocookie.net/onepiece/images/8/8c/Franky_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20130225034035</item>
+        <item>https://static.wikia.nocookie.net/onepiece/images/4/41/Brook_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/214?cb=20161016160925</item>
+        <item>https://static.wikia.nocookie.net/onepiece/images/8/81/Jinbe_Anime_Infobox.png/revision/latest?cb=20170521201349</item>
+    </string-array>
+
+    <string-array name="data_role">
+        <item>Kapten</item>
+        <item>Pendekar Pedang</item>
+        <item>Navigator</item>
+        <item>Penembak Jitu</item>
+        <item>Koki</item>
+        <item>Dokter</item>
+        <item>Arkeolog</item>
+        <item>Pembuat Kapal</item>
+        <item>Musisi</item>
+        <item>Juru Kemudi Kapal</item>
+    </string-array>
+
+    <string name="about_me_name">Farhan Muzhaffar Tiras Putra</string>
+    <string name="about_me_email">farhanmuzhaffar@upi.edu</string>
+</resources>
